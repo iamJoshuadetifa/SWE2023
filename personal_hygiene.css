@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color: #f00;
+    border: solid 20px #00f;
+    padding: 60px;
+    border-radius: 25px;
+}
+
+p{
+    text-align: center;
+}
+
+header{
+    background-color: green;
+    margin: -10px;
+    height: 200px;
+}
+
+nav{
+    margin-left: 35%;
+    padding-top: 20px;
+}
+
+a:link{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:visited{
+    color:#ff0;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#fff;
+    text-decoration: overline underline;
+}
+
+a:active{
+    color:#f0f;
+    text-decoration: none;
+}
+.logo{
+    padding-left: 45%;
+    padding-top: 30px;
+}
+.hero{
+    padding-left: 15%;
+}
+.aspects{
+    margin-left: 7%;
+    border-spacing: 60px;
+}
+td{
+    padding-top: 1px;
+}
+footer{
+background: #080;
+margin: -30px;
+height: 300px;
+}
+
+h6{
+    color:#fff;
+    padding-top: 15px;
+}
+
+
+
+
